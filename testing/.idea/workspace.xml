@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0385d4ff-2b85-462f-b5e7-1c774ac8229d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cZdf94jG4Ihq7fWz8VV4atjIze" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Selenium/Selenium-examples/testing" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="intermedium" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Victor\IdeaProjects\testing\src\intermedium" />
+      <recent name="C:\Users\Victor\IdeaProjects\testing\src\org\cenfotec\selenium" />
+      <recent name="C:\Users\Victor\IdeaProjects\testing\drivers" />
+      <recent name="C:\Users\Victor\IdeaProjects\testing\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/Victor/IdeaProjects/testing/src/intermedium/ITestContext.xml">
+    <configuration name="C:/Users/Victor/IdeaProjects/testing/src/intermedium/ITestContext.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testing" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/intermedium/ITestContext.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="parametherByMethod (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="intermedium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="intermedium" />
+      <option name="MAIN_CLASS_NAME" value="intermedium.parametherByMethod" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="parametherByMethod" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="intermedium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="intermedium" />
+      <option name="MAIN_CLASS_NAME" value="intermedium.parametherByMethod" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="parametherByMethod.testMethod" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="intermedium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="intermedium" />
+      <option name="MAIN_CLASS_NAME" value="intermedium.parametherByMethod" />
+      <option name="METHOD_NAME" value="testMethod" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="parametherITestContext" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="intermedium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="intermedium" />
+      <option name="MAIN_CLASS_NAME" value="intermedium.parametherITestContext" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/Victor/IdeaProjects/testing/src/intermedium/ITestContext.xml" />
+        <item itemvalue="TestNG.parametherITestContext" />
+        <item itemvalue="TestNG.parametherByMethod (1)" />
+        <item itemvalue="TestNG.parametherByMethod.testMethod" />
+        <item itemvalue="TestNG.parametherByMethod" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0385d4ff-2b85-462f-b5e7-1c774ac8229d" name="Default Changelist" comment="" />
+      <created>1590740149202</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590740149202</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Project_Structure" timestamp="1590740295818">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1590740295818" />
+    <state x="669" y="167" key="#TestNG" timestamp="1590740515958">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="669" y="167" key="#TestNG/0.0.1920.1040@0.0.1920.1040" timestamp="1590740515958" />
+    <state x="1073" y="101" width="752" height="839" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1590740982706">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1073" y="101" width="752" height="839" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590740982706" />
+    <state x="1229" y="275" key="FileChooserDialogImpl" timestamp="1591066262225">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1229" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591066262225" />
+    <state width="892" height="344" key="GridCell.Tab.0.bottom" timestamp="1591065633232">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="892" height="344" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591065633232" />
+    <state width="892" height="344" key="GridCell.Tab.0.center" timestamp="1591065633231">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="892" height="344" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591065633231" />
+    <state width="892" height="344" key="GridCell.Tab.0.left" timestamp="1591065633231">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="892" height="344" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591065633231" />
+    <state width="892" height="344" key="GridCell.Tab.0.right" timestamp="1591065633232">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="892" height="344" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591065633232" />
+    <state width="892" height="344" key="GridCell.Tab.1.bottom" timestamp="1591065633232">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="892" height="344" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591065633232" />
+    <state width="892" height="344" key="GridCell.Tab.1.center" timestamp="1591065633232">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="892" height="344" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591065633232" />
+    <state width="892" height="344" key="GridCell.Tab.1.left" timestamp="1591065633232">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="892" height="344" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591065633232" />
+    <state width="892" height="344" key="GridCell.Tab.1.right" timestamp="1591065633232">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="892" height="344" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591065633232" />
+    <state x="342" y="140" key="new project wizard" timestamp="1590740194736">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="140" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1590740194736" />
+    <state x="1155" y="139" key="refactoring.ChangeSignatureDialog" timestamp="1591025329531">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1155" y="139" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591025329531" />
+    <state x="1112" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1591025263573">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1112" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1591025263573" />
+  </component>
+</project>
