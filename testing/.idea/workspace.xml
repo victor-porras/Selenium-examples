@@ -14,7 +14,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1cZdf94jG4Ihq7fWz8VV4atjIze" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,7 +26,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Selenium/Selenium-examples/testing" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -38,7 +42,7 @@
       <recent name="C:\Users\Victor\IdeaProjects\testing\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/Victor/IdeaProjects/testing/src/intermedium/ITestContext.xml">
+  <component name="RunManager" selected="TestNG.javascript (1)">
     <configuration name="C:/Users/Victor/IdeaProjects/testing/src/intermedium/ITestContext.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testing" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/src/intermedium/ITestContext.xml" />
@@ -49,7 +53,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="parametherByMethod (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="javascript (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testing" />
       <extension name="coverage">
         <pattern>
@@ -58,7 +62,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="intermedium" />
-      <option name="MAIN_CLASS_NAME" value="intermedium.parametherByMethod" />
+      <option name="MAIN_CLASS_NAME" value="intermedium.javascript" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -66,7 +70,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="parametherByMethod" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="javascript" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testing" />
       <extension name="coverage">
         <pattern>
@@ -75,7 +79,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="intermedium" />
-      <option name="MAIN_CLASS_NAME" value="intermedium.parametherByMethod" />
+      <option name="MAIN_CLASS_NAME" value="intermedium.javascript" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -83,7 +87,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="parametherByMethod.testMethod" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="javascript.registerAnUser" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testing" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +96,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="intermedium" />
-      <option name="MAIN_CLASS_NAME" value="intermedium.parametherByMethod" />
-      <option name="METHOD_NAME" value="testMethod" />
+      <option name="MAIN_CLASS_NAME" value="intermedium.javascript" />
+      <option name="METHOD_NAME" value="registerAnUser" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -120,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.javascript (1)" />
+        <item itemvalue="TestNG.javascript.registerAnUser" />
+        <item itemvalue="TestNG.javascript" />
         <item itemvalue="TestNG.C:/Users/Victor/IdeaProjects/testing/src/intermedium/ITestContext.xml" />
         <item itemvalue="TestNG.parametherITestContext" />
-        <item itemvalue="TestNG.parametherByMethod (1)" />
-        <item itemvalue="TestNG.parametherByMethod.testMethod" />
-        <item itemvalue="TestNG.parametherByMethod" />
       </list>
     </recent_temporary>
   </component>
@@ -154,26 +158,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1073" y="101" width="752" height="839" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590740982706" />
-    <state x="1229" y="275" key="FileChooserDialogImpl" timestamp="1591066262225">
+    <state x="1229" y="275" key="FileChooserDialogImpl" timestamp="1591066397104">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1229" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591066262225" />
-    <state width="892" height="344" key="GridCell.Tab.0.bottom" timestamp="1591065633232">
+    <state x="1229" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591066397104" />
+    <state width="1877" height="301" key="GridCell.Tab.0.bottom" timestamp="1591072196779">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="892" height="344" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591065633232" />
-    <state width="892" height="344" key="GridCell.Tab.0.center" timestamp="1591065633231">
+    <state width="1877" height="301" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591072196779" />
+    <state width="1877" height="301" key="GridCell.Tab.0.center" timestamp="1591072196779">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="892" height="344" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591065633231" />
-    <state width="892" height="344" key="GridCell.Tab.0.left" timestamp="1591065633231">
+    <state width="1877" height="301" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591072196779" />
+    <state width="1877" height="301" key="GridCell.Tab.0.left" timestamp="1591072196779">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="892" height="344" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591065633231" />
-    <state width="892" height="344" key="GridCell.Tab.0.right" timestamp="1591065633232">
+    <state width="1877" height="301" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591072196779" />
+    <state width="1877" height="301" key="GridCell.Tab.0.right" timestamp="1591072196779">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="892" height="344" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591065633232" />
+    <state width="1877" height="301" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591072196779" />
     <state width="892" height="344" key="GridCell.Tab.1.bottom" timestamp="1591065633232">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
