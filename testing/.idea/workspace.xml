@@ -42,11 +42,28 @@
       <recent name="C:\Users\Victor\IdeaProjects\testing\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.javascript (1)">
+  <component name="RunManager" selected="TestNG.TestRealReport">
     <configuration name="C:/Users/Victor/IdeaProjects/testing/src/intermedium/ITestContext.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testing" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/src/intermedium/ITestContext.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRealReport" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="listeners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="listeners" />
+      <option name="MAIN_CLASS_NAME" value="listeners.TestRealReport" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -105,30 +122,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="parametherITestContext" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="testing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="intermedium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="intermedium" />
-      <option name="MAIN_CLASS_NAME" value="intermedium.parametherITestContext" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TestRealReport" />
         <item itemvalue="TestNG.javascript (1)" />
         <item itemvalue="TestNG.javascript.registerAnUser" />
         <item itemvalue="TestNG.javascript" />
         <item itemvalue="TestNG.C:/Users/Victor/IdeaProjects/testing/src/intermedium/ITestContext.xml" />
-        <item itemvalue="TestNG.parametherITestContext" />
       </list>
     </recent_temporary>
   </component>
@@ -154,30 +154,34 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="669" y="167" key="#TestNG/0.0.1920.1040@0.0.1920.1040" timestamp="1590740515958" />
-    <state x="1073" y="101" width="752" height="839" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1590740982706">
+    <state x="1073" y="101" width="752" height="839" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1591074868856">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1073" y="101" width="752" height="839" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590740982706" />
+    <state x="1073" y="101" width="752" height="839" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591074868856" />
+    <state x="1282" y="230" key="#com.intellij.ide.util.MemberChooser" timestamp="1591072846379">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1282" y="230" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1591072846379" />
     <state x="1229" y="275" key="FileChooserDialogImpl" timestamp="1591066397104">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1229" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591066397104" />
-    <state width="1877" height="301" key="GridCell.Tab.0.bottom" timestamp="1591072196779">
+    <state width="837" height="301" key="GridCell.Tab.0.bottom" timestamp="1591075104281">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="301" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591072196779" />
-    <state width="1877" height="301" key="GridCell.Tab.0.center" timestamp="1591072196779">
+    <state width="837" height="301" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591075104281" />
+    <state width="837" height="301" key="GridCell.Tab.0.center" timestamp="1591075104281">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="301" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591072196779" />
-    <state width="1877" height="301" key="GridCell.Tab.0.left" timestamp="1591072196779">
+    <state width="837" height="301" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591075104281" />
+    <state width="837" height="301" key="GridCell.Tab.0.left" timestamp="1591075104281">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="301" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591072196779" />
-    <state width="1877" height="301" key="GridCell.Tab.0.right" timestamp="1591072196779">
+    <state width="837" height="301" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591075104281" />
+    <state width="837" height="301" key="GridCell.Tab.0.right" timestamp="1591075104281">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="301" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591072196779" />
+    <state width="837" height="301" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591075104281" />
     <state width="892" height="344" key="GridCell.Tab.1.bottom" timestamp="1591065633232">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
