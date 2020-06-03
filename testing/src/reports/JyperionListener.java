@@ -2,11 +2,13 @@ package reports;
 
 import java.awt.Color;
 import java.io.FileOutputStream;
+import java.io.IOException;
 import java.util.Date;
 import java.util.HashMap;
 import java.util.Random;
 import java.util.Set;
 
+import com.lowagie.text.pdf.PdfAction;
 import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
@@ -112,7 +114,12 @@ public class JyperionListener implements ITestListener {
 		/*
 		 * Adding code to instruct Jyperion to take screensot on error
 		 */
-		
+			String file = System.getProperty("user.dir") + "\\screenshot" + new Random().nextInt() + ".png";
+		try {
+			BaseClass.takeScreenShot(BaseClass.getDriver(), file);
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
 		//*******************************************************************************************************
 		if (this.failTable == null) {
 			this.failTable = new PdfPTable(new float[]{.3f, .3f, .1f, .3f});
@@ -155,7 +162,13 @@ public class JyperionListener implements ITestListener {
 			this.nbExceptions++;
 			
 			//***************************** Attach screenshots ****************************
-			
+			Chunk imdb = new Chunk("[SCREEN SHOT]", new Font(Font.TIMES_ROMAN, Font.DEFAULTSIZE, Font.UNDERLINE));
+			imdb.setAction(new PdfAction("file:///" + file));
+			Paragraph excep = new Paragraph(throwable.toString());
+			excep.add(imdb);
+			cell = new PdfPCell(excep);
+			this.failTable.addCell(cell);
+
 			//*************************************************************************** */
 		} else {
 			this.failTable.addCell(new PdfPCell(new Paragraph("")));
