@@ -43,7 +43,7 @@
       <recent name="C:\Users\Victor\IdeaProjects\testing\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.PdfEmail">
+  <component name="RunManager" selected="TestNG.VideoRecorder">
     <configuration name="PdfEmail" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testing" />
       <extension name="coverage">
@@ -96,6 +96,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VideoRecorder" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="video.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="video" />
+      <option name="MAIN_CLASS_NAME" value="video.VideoRecorder" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="javascript (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testing" />
       <extension name="coverage">
@@ -113,31 +130,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="javascript.registerAnUser" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="testing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="intermedium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="intermedium" />
-      <option name="MAIN_CLASS_NAME" value="intermedium.javascript" />
-      <option name="METHOD_NAME" value="registerAnUser" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.VideoRecorder" />
         <item itemvalue="TestNG.PdfEmail" />
         <item itemvalue="TestNG.PdfEmail.testThree" />
         <item itemvalue="TestNG.TestRealReport" />
         <item itemvalue="TestNG.javascript (1)" />
-        <item itemvalue="TestNG.javascript.registerAnUser" />
       </list>
     </recent_temporary>
   </component>
@@ -167,6 +166,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1073" y="101" width="752" height="839" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591180209396" />
+    <state x="654" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591258778604">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="654" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1591258778604" />
     <state x="1099" y="230" width="785" height="568" key="#com.intellij.ide.util.MemberChooser" timestamp="1591182013130">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
