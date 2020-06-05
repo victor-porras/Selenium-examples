@@ -1,0 +1,72 @@
+Opening website: https://healthunify.com/bmicalculator/
+Escribiendo peso
+Seleccionando kilogramos
+webelement not found: no such element: Unable to locate element: {"method":"css selector","selector":"*[name='optl']"}
+  (Session info: chrome=83.0.4103.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'DESKTOP-2VHGH6G', ip: '192.168.100.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.61, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\Victor\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:49571}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 3182fcad84f2aa88c9541582d32e66dd
+*** Element info: {Using=name, value=optl}
+Browser closed
+Opening website: https://healthunify.com/bmicalculator/
+Escribiendo peso
+Seleccionando kilogramos
+webelement not found: no such element: Unable to locate element: {"method":"css selector","selector":"*[name='optl']"}
+  (Session info: chrome=83.0.4103.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'DESKTOP-2VHGH6G', ip: '192.168.100.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.61, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\Victor\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:49759}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 0bd146980f4935f11935989811bab77f
+*** Element info: {Using=name, value=optl}
+Browser closed
+Opening website: https://healthunify.com/bmicalculator/
+Escribiendo peso
+Seleccionando kilogramos
+webelement not found: no such element: Unable to locate element: {"method":"css selector","selector":"*[name='optl']"}
+  (Session info: chrome=83.0.4103.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'DESKTOP-2VHGH6G', ip: '192.168.100.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.61, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\Victor\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:49860}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 7dcb086b7665492b191774e272f89135
+*** Element info: {Using=name, value=optl}
+Browser closed
+Opening website: https://healthunify.com/bmicalculator/
+Escribiendo peso
+Seleccionando kilogramos
+Indicando altura en pies
+Indicando altura en pulgadas
+Clicking in calculate
+SI unit = 27.46
+US unit = 27.92
+UK unit = 174.37
+DescriptionYour category is Overweight
+Browser closed
+Opening website: https://healthunify.com/bmicalculator/
+Escribiendo peso
+Seleccionando kilogramos
+Indicando altura en pies
+Indicando altura en pulgadas
+Clicking in calculate
+SI unit = 27.46
+US unit = 27.92
+UK unit = 174.37
+DescriptionYour category is Overweight
+Browser closed
+2020-06--04 22:02:07 INFO  avanzado.LogTest(1):32 - Opening website: https://healthunify.com/bmicalculator/
+2020-06--04 22:02:07 INFO  avanzado.LogTest(1):49 - Escribiendo peso
+2020-06--04 22:02:07 INFO  avanzado.LogTest(1):52 - Seleccionando kilogramos
+2020-06--04 22:02:07 INFO  avanzado.LogTest(1):55 - Indicando altura en pies
+2020-06--04 22:02:08 INFO  avanzado.LogTest(1):58 - Indicando altura en pulgadas
+2020-06--04 22:02:09 INFO  avanzado.LogTest(1):61 - Clicking in calculate
+2020-06--04 22:02:10 INFO  avanzado.LogTest(1):70 - SI unit = 27.46
+2020-06--04 22:02:10 INFO  avanzado.LogTest(1):71 - US unit = 27.92
+2020-06--04 22:02:10 INFO  avanzado.LogTest(1):72 - UK unit = 174.37
+2020-06--04 22:02:10 INFO  avanzado.LogTest(1):73 - DescriptionYour category is Overweight
+2020-06--04 22:02:10 INFO  avanzado.LogTest(1):43 - Browser closed

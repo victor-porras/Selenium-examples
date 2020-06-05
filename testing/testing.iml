@@ -13,5 +13,6 @@
     <orderEntry type="library" name="itextpdf-2.1" level="project" />
     <orderEntry type="library" name="mail-1.4" level="project" />
     <orderEntry type="library" name="monte-1.0" level="project" />
+    <orderEntry type="library" name="log4j-1.2" level="project" />
   </component>
 </module>

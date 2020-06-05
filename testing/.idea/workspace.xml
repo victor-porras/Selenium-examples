@@ -26,7 +26,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/drivers" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -36,14 +36,41 @@
       <recent name="intermedium" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Victor\Desktop\Selenium\Selenium-examples\testing\drivers" />
       <recent name="C:\Users\Victor\Desktop\Selenium\Selenium-examples\testing\lib" />
       <recent name="C:\Users\Victor\IdeaProjects\testing\src\intermedium" />
       <recent name="C:\Users\Victor\IdeaProjects\testing\src\org\cenfotec\selenium" />
       <recent name="C:\Users\Victor\IdeaProjects\testing\drivers" />
-      <recent name="C:\Users\Victor\IdeaProjects\testing\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.VideoRecorder">
+  <component name="RunManager" selected="TestNG.C:/Users/Victor/Desktop/Selenium/Selenium-examples/testing/src/avanzado/CrossBrowser.xml">
+    <configuration name="C:/Users/Victor/Desktop/Selenium/Selenium-examples/testing/src/avanzado/CrossBrowser.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testing" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/avanzado/CrossBrowser.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="avanzado.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="avanzado" />
+      <option name="MAIN_CLASS_NAME" value="avanzado.LogTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PdfEmail" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testing" />
       <extension name="coverage">
@@ -61,34 +88,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PdfEmail.testThree" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="RobotApi" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testing" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="reports.*" />
+          <option name="PATTERN" value="avanzado.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="reports" />
-      <option name="MAIN_CLASS_NAME" value="reports.PdfEmail" />
-      <option name="METHOD_NAME" value="testThree" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestRealReport" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="testing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="listeners.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="listeners" />
-      <option name="MAIN_CLASS_NAME" value="listeners.TestRealReport" />
+      <option name="PACKAGE_NAME" value="avanzado" />
+      <option name="MAIN_CLASS_NAME" value="avanzado.RobotApi" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -113,30 +122,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="javascript (1)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="testing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="intermedium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="intermedium" />
-      <option name="MAIN_CLASS_NAME" value="intermedium.javascript" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/Victor/Desktop/Selenium/Selenium-examples/testing/src/avanzado/CrossBrowser.xml" />
+        <item itemvalue="TestNG.RobotApi" />
+        <item itemvalue="TestNG.LogTest" />
         <item itemvalue="TestNG.VideoRecorder" />
         <item itemvalue="TestNG.PdfEmail" />
-        <item itemvalue="TestNG.PdfEmail.testThree" />
-        <item itemvalue="TestNG.TestRealReport" />
-        <item itemvalue="TestNG.javascript (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -178,22 +170,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1229" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591066397104" />
-    <state width="1877" height="179" key="GridCell.Tab.0.bottom" timestamp="1591183944275">
+    <state width="807" height="120" key="GridCell.Tab.0.bottom" timestamp="1591352075867">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="179" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591183944275" />
-    <state width="1877" height="179" key="GridCell.Tab.0.center" timestamp="1591183944275">
+    <state width="807" height="120" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591352075867" />
+    <state width="807" height="120" key="GridCell.Tab.0.center" timestamp="1591352075867">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="179" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591183944275" />
-    <state width="1877" height="179" key="GridCell.Tab.0.left" timestamp="1591183944275">
+    <state width="807" height="120" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591352075867" />
+    <state width="807" height="120" key="GridCell.Tab.0.left" timestamp="1591352075867">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="179" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591183944275" />
-    <state width="1877" height="179" key="GridCell.Tab.0.right" timestamp="1591183944275">
+    <state width="807" height="120" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591352075867" />
+    <state width="807" height="120" key="GridCell.Tab.0.right" timestamp="1591352075867">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="179" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591183944275" />
+    <state width="807" height="120" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591352075867" />
     <state width="892" height="344" key="GridCell.Tab.1.bottom" timestamp="1591065633232">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
