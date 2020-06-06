@@ -18,6 +18,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1cZdf94jG4Ihq7fWz8VV4atjIze" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -27,7 +34,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/pageFactory" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -147,10 +154,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="178" key="#Project_Structure" timestamp="1591433077804">
+    <state x="552" y="178" key="#Project_Structure" timestamp="1591433233626">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1591433077804" />
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1591433233626" />
     <state x="669" y="167" key="#TestNG" timestamp="1590740515958">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -175,22 +182,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1229" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591066397104" />
-    <state width="1044" height="200" key="GridCell.Tab.0.bottom" timestamp="1591433015336">
+    <state width="1280" height="535" key="GridCell.Tab.0.bottom" timestamp="1591435179934">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1044" height="200" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591433015336" />
-    <state width="1044" height="200" key="GridCell.Tab.0.center" timestamp="1591433015335">
+    <state width="1280" height="535" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591435179934" />
+    <state width="1280" height="535" key="GridCell.Tab.0.center" timestamp="1591435179934">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1044" height="200" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591433015335" />
-    <state width="1044" height="200" key="GridCell.Tab.0.left" timestamp="1591433015335">
+    <state width="1280" height="535" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591435179934" />
+    <state width="1280" height="535" key="GridCell.Tab.0.left" timestamp="1591435179934">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1044" height="200" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591433015335" />
-    <state width="1044" height="200" key="GridCell.Tab.0.right" timestamp="1591433015336">
+    <state width="1280" height="535" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591435179934" />
+    <state width="1280" height="535" key="GridCell.Tab.0.right" timestamp="1591435179934">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1044" height="200" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591433015336" />
+    <state width="1280" height="535" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591435179934" />
     <state width="892" height="344" key="GridCell.Tab.1.bottom" timestamp="1591065633232">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -207,10 +214,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="892" height="344" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591065633232" />
-    <state x="342" y="140" key="new project wizard" timestamp="1590740194736">
+    <state x="342" y="140" key="new project wizard" timestamp="1591435177766">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="342" y="140" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1590740194736" />
+    <state x="342" y="140" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1591435177766" />
     <state x="1155" y="139" key="refactoring.ChangeSignatureDialog" timestamp="1591025329531">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
